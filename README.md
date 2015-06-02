@@ -33,7 +33,7 @@
 
 ###Members
 
- * Prachi Mourya
+* Prachi Mourya
 * Aryam mikh
 * [Shyamnaik](https://www.github.com/Shyamnaik)
 * [Rupesh Pawar](https://www.github.com/rupeshpawar007)
