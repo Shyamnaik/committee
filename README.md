@@ -34,7 +34,7 @@
 ###Members
 
  * Prachi Mourya
- * Aryam mikh
+ * Aryam Mik
  *  [Shyamnaik](https://www.github.com/Shyamnaik)
  *   [Rupesh Pawar](https://www.github.com/rupeshpawar007)
  *   Divyesh Soni
